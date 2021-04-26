@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7C5E1EBE-0E40-87B8-D076-6DA929069396}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MuneController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MuneController.cs" Line="15" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="muneWalk" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MuneController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dd7a61bf-4383-46c4-b543-11c0e92a4605" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: d5688527aa1e64a519820ed10c0a5b32
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4199073713194035470
+    second: Mune Walk Sprite Color_0
+  - first:
+      213: 6797971944067721043
+    second: Mune Walk Sprite Color_1
+  - first:
+      213: -4435198535819118233
+    second: Mune Walk Sprite Color_2
+  - first:
+      213: 8473453684090442003
+    second: Mune Walk Sprite Color_3
+  - first:
+      213: -811555762830617330
+    second: Mune Walk Sprite Color_4
+  - first:
+      213: -7287487730862559037
+    second: Mune Walk Sprite Color_5
+  - first:
+      213: 7136524374171214517
+    second: Mune Walk Sprite Color_6
+  - first:
+      213: -4244502206141887968
+    second: Mune Walk Sprite Color_7
+  - first:
+      213: 8234608448283222464
+    second: Mune Walk Sprite Color_8
+  - first:
+      213: -2908471299941165750
+    second: Mune Walk Sprite Color_9
+  - first:
+      213: 3160201900377612806
+    second: Mune Walk Sprite Color_10
+  - first:
+      213: -9148087020376749686
+    second: Mune Walk Sprite Color_11
+  - first:
+      213: -3476137908534708879
+    second: Mune Walk Sprite Color_12
+  - first:
+      213: 3957410238019428515
+    second: Mune Walk Sprite Color_13
+  - first:
+      213: 7565373135116172098
+    second: Mune Walk Sprite Color_14
+  - first:
+      213: -3337430565827473535
+    second: Mune Walk Sprite Color_15
+  - first:
+      213: -3937667699467653070
+    second: Mune Walk Sprite Color_16
+  - first:
+      213: 3270387893925516946
+    second: Mune Walk Sprite Color_17
+  - first:
+      213: 726309170049906692
+    second: Mune Walk Sprite Color_18
+  - first:
+      213: 8504967420015053803
+    second: Mune Walk Sprite Color_19
+  - first:
+      213: -3065656080616343498
+    second: Mune Walk Sprite Color_20
+  - first:
+      213: 8961510338545284450
+    second: Mune Walk Sprite Color_21
+  - first:
+      213: 50543408968508481
+    second: Mune Walk Sprite Color_22
+  - first:
+      213: -2173918392860185349
+    second: Mune Walk Sprite Color_23
+  - first:
+      213: -887860183377570532
+    second: Mune Walk Sprite Color_24
+  - first:
+      213: 7197308245863954831
+    second: Mune Walk Sprite Color_25
+  - first:
+      213: 777889462165891167
+    second: Mune Walk Sprite Color_26
+  - first:
+      213: 5078276487239677799
+    second: Mune Walk Sprite Color_27
+  - first:
+      213: -1304577392684436299
+    second: Mune Walk Sprite Color_28
+  - first:
+      213: -3981838629016053467
+    second: Mune Walk Sprite Color_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096c946b4b164a30800000000000000
+      internalID: 4199073713194035470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2048
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576a37477f375e50800000000000000
+      internalID: 6797971944067721043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2048
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693b2c2e620372c0800000000000000
+      internalID: -4435198535819118233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2048
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3119fec3b31c79570800000000000000
+      internalID: 8473453684090442003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_4
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2048
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055f016556ccb4f0800000000000000
+      internalID: -811555762830617330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2048
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07be00584adda90800000000000000
+      internalID: -7287487730862559037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2646d7b170a0360800000000000000
+      internalID: 7136524374171214517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1536
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a0d8a5bbf7815c0800000000000000
+      internalID: -4244502206141887968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1536
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c12a5041c4374270800000000000000
+      internalID: 8234608448283222464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_9
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1536
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45969f23c803a7d0800000000000000
+      internalID: -2908471299941165750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_10
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1536
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602a58a82ea4bdb20800000000000000
+      internalID: 3160201900377612806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_11
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1536
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a890518d2577b0180800000000000000
+      internalID: -9148087020376749686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f4835df642cfc0800000000000000
+      internalID: -3476137908534708879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1024
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a064abe4ab8be630800000000000000
+      internalID: 3957410238019428515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1024
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf1e788ca9df860800000000000000
+      internalID: 7565373135116172098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_15
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1024
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f825535901fa1d0800000000000000
+      internalID: -3337430565827473535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1024
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23073b907189a59c0800000000000000
+      internalID: -3937667699467653070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_17
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1024
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2961b275670c26d20800000000000000
+      internalID: 3270387893925516946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408feed875e541a00800000000000000
+      internalID: 726309170049906692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 512
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8448aec6b70670800000000000000
+      internalID: 8504967420015053803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 512
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b857890a9475d0800000000000000
+      internalID: -3065656080616343498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 512
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2657bfb3c2ead5c70800000000000000
+      internalID: 8961510338545284450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_22
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 512
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442e4176f093b000800000000000000
+      internalID: 50543408968508481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 512
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc61e65db0b4d1e0800000000000000
+      internalID: -2173918392860185349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1511970edfada3f0800000000000000
+      internalID: -887860183377570532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f5b577b9f1e360800000000000000
+      internalID: 7197308245863954831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58eaea285e9bca00800000000000000
+      internalID: 777889462165891167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b32d2f89a97640800000000000000
+      internalID: 5078276487239677799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 0
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4f907f5c535ede0800000000000000
+      internalID: -1304577392684436299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Walk Sprite Color_29
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 0
+        width: 283
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d1941ddaadb8c0800000000000000
+      internalID: -3981838629016053467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28fee7680a6cd46bf8657155edd886d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: a71a99fc6a1b24d8e9ffb7a7fe4bee75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4624056239188103418
+    second: Mune Stand Spritesheet_0
+  - first:
+      213: -649761596135382975
+    second: Mune Stand Spritesheet_1
+  - first:
+      213: 6099157066869406892
+    second: Mune Stand Spritesheet_2
+  - first:
+      213: 2887882508889067611
+    second: Mune Stand Spritesheet_3
+  - first:
+      213: -1501150319110107793
+    second: Mune Stand Spritesheet_4
+  - first:
+      213: -6505587364007361742
+    second: Mune Stand Spritesheet_5
+  - first:
+      213: -8708821313356109166
+    second: Mune Stand Spritesheet_6
+  - first:
+      213: 3638645342182290160
+    second: Mune Stand Spritesheet_7
+  - first:
+      213: 4826549440087865441
+    second: Mune Stand Spritesheet_8
+  - first:
+      213: -6702286721559189167
+    second: Mune Stand Spritesheet_9
+  - first:
+      213: -7451886693623119768
+    second: Mune Stand Spritesheet_10
+  - first:
+      213: -1875633304459724603
+    second: Mune Stand Spritesheet_11
+  - first:
+      213: -1107151873604730286
+    second: Mune Stand Spritesheet_12
+  - first:
+      213: 5146244564023803645
+    second: Mune Stand Spritesheet_13
+  - first:
+      213: 4844859213549106093
+    second: Mune Stand Spritesheet_14
+  - first:
+      213: 2189567345753806606
+    second: Mune Stand Spritesheet_15
+  - first:
+      213: -5321655283080630042
+    second: Mune Stand Spritesheet_16
+  - first:
+      213: 1800878155675334964
+    second: Mune Stand Spritesheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05c3676a2fb2040800000000000000
+      internalID: 4624056239188103418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1536
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140e8a955459bf6f0800000000000000
+      internalID: -649761596135382975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1536
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac7010a90f84a450800000000000000
+      internalID: 6099157066869406892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1536
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50956757d1d31820800000000000000
+      internalID: 2887882508889067611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1536
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d4afafcb7da2be0800000000000000
+      internalID: -1501150319110107793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334211b2c287b5a0800000000000000
+      internalID: -6505587364007361742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1024
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aee05282d042780800000000000000
+      internalID: -8708821313356109166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1024
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b76c09a01f7230800000000000000
+      internalID: 3638645342182290160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1024
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683c43c4295bf240800000000000000
+      internalID: 4826549440087865441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1024
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a5aaacb1bcf2a0800000000000000
+      internalID: -6702286721559189167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8604220b884959890800000000000000
+      internalID: -7451886693623119768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 512
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c839c6727968f5e0800000000000000
+      internalID: -1875633304459724603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 512
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252c165ac3b92a0f0800000000000000
+      internalID: -1107151873604730286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 512
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7ced3a222b6740800000000000000
+      internalID: 5146244564023803645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 512
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37f5a19c56c3340800000000000000
+      internalID: 4844859213549106093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07537f66e7e26e10800000000000000
+      internalID: 2189567345753806606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f5e227bea526b0800000000000000
+      internalID: -5321655283080630042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mune Stand Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 265
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f9c024210ef810800000000000000
+      internalID: 1800878155675334964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a13dc481d3fba4aff873bc466d709226
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
