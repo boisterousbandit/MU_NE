@@ -4,5 +4,7 @@ Animation // contains animation for the motion // muneWalk26 contains all 27 fra
 
 
 Working on:
-- A Throw Animation Sequence for Muné
+- Add Pick and Throw Animation To Unity
+- Pick and Throw Animation Self-plays (Trigger)
+- Pick and Throw Animation Tied to Action Button (E)
 
